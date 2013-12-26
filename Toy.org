@@ -1,0 +1,99 @@
+* Top level headline
+** Second level 
+*** Third level
+    some text
+*** Third level
+    more text
+
+
+* Another top level headline
+
+* Some basic operations
+
+  * next heading
+  * previous heading
+  * next heading same level
+  * [ ] Do you like Israa?
+  * previous heading same level
+
+
+** Lord of the Rings
+   My favorite sentences are (in this order)
+   1. The attack of the Rohirrim[fn:1]
+   2. Eowyn's fight with the witch king.
+      + this was already my favorite scene in the book
+      + I really like Miradan Otto.
+   Important actors in this film are:
+   - Elijah Wood :: He plays Frodo.
+   - Sean :: He plays Sam, Frodo's friend.
+
+| Name | Phone | Age |
+|------+-------+-----|
+|      |       |     | 
+
+| Name  | Phone | Age |
+|-------+-------+-----|
+| Peter |  1234 |  17 |
+| Anna  |  4321 |  25 |
+|       |       |     |
+|-------+-------+-----|
+|       |       |     |
+|-------+-------+-----|
+|       |       |     |
+|-------+-------+-----|
+|-------+-------+-----|
+
+        
+
+[[http://www.abrahamx.com][Life no longer hard with love.]]
+
+** REPORT Life is hard. But I have to work hard, for a possible true love.
+
+*** TODO [#A] Write letter to Dr. Sid about your research progress. 
+
+* Organize a party [33%]
+
+** TODO Call people [1/2]
+
+*** TODO Call Peter
+
+*** DONE Sara
+    CLOSED: [2013-12-27 Fri 03:14]
+
+** TODO Buy food.
+
+** DONE Talk to the friends of Israa.
+   CLOSED: [2013-12-27 Fri 03:16]
+
+
+* TODO Organize party. [50%]
+
+- call people [50%]
+  - [ ] Peter
+  - [X] Sarah
+
+- [X] Order food
+
+- [ ] think about what music to play
+
+
+* TODO Organize party. [25%]
+  SCHEDULED: <2013-12-27 Fri>
+  - [-] call people [50%]
+    - [ ] Peter
+    - [X] Sarah
+  - [X] Order food
+  - [ ] think about what music to play
+  - [ ] Life is hard. Then go to sleep.
+
+* Footnotes
+
+[fn:1] You have to love someone, and you have to be strong at the same
+time. 
+
+ 
+
+
+
+
+
