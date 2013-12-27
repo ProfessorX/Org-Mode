@@ -13,7 +13,8 @@
   * next heading
   * previous heading
   * next heading same level
-  * [ ] Do you like Israa?
+  * [ ] Do you like Israa? My answer is yes but the reality should be
+    no. 
   * previous heading same level
 
 
@@ -51,9 +52,9 @@
 
 *** TODO [#A] Write letter to Dr. Sid about your research progress. 
 
-* Organize a party [33%]
+* Organize a party [0%]
 
-** TODO Call people [2/2]<2013-12-30 Mon>--<2013-12-30 Mon 20:00>
+** TODO Call people [2/2] <2013-12-30 Mon>--<2014-01-01 Wed +1d>
    DEADLINE: <2013-12-27 Fri>
 
 ** Pick up Sam at school. <2013-12-29 Sun +1w>
@@ -78,10 +79,13 @@
     CLOSED: [2013-12-27 Fri 03:14]
     CLOCK: [2013-12-27 Fri 04:05]--[2013-12-27 Fri 04:06] =>  0:01
 
-** TODO Buy food.
+** TODO Buy food.                                                      :life:
 
-** DONE Talk to the friends of Israa.
-   CLOSED: [2013-12-27 Fri 03:16]
+** NEXT Talk to the friends of Israa.
+   :LOGBOOK:
+   - State "NEXT"       from "DONE"       [2013-12-27 Fri 23:50] \\
+     Keep moving. Keep moving.
+   :END:
 
 
 * TODO Organize party. [50%]
@@ -95,7 +99,7 @@
 - [ ] think about what music to play
 
 
-* TODO Organize party. [25%]
+* REPORT Organize party. [28%]
   SCHEDULED: <2013-12-27 Fri>
   - [-] call people [50%]
     - [ ] Peter
@@ -103,21 +107,40 @@
   - [X] Order food
   - [ ] think about what music to play
   - [ ] Life is hard. Then go to sleep.
+  - [ ] 
+  - [X] Regret what you have done to Israa, a female Muslim...
+  - [ ] 
 
 
 
-** TODO Work hard.
-   DEADLINE: <2013-12-21 Sat>
+** KNOWCAUSE 
+   :LOGBOOK:
+   CLOCK: [2013-12-27 Fri 21:31]--[2013-12-27 Fri 21:31] =>  0:00
+   - State "KNOWCAUSE"  from "FIXED"      [2013-12-27 Fri 19:26] \\
+     Life is hard, isn't it?
+   :END:
 
 
+* Research [%]
+  
+** Keep moving
+
+*** Working hard.
+
+**** NEXT Have a life. [28%]                                           :life:
+     :LOGBOOK:
+     - State "NEXT"       from "TODO"       [2013-12-27 Fri 23:59] \\
+       Have a life please!
+     :END:
+     - [X] Do you have a life?
+     - [X] Do you want to have a life?
+     - [ ] 
+     - [ ] 
+     - [ ] 
+     - [ ] 
+     - [ ] 
+       
+***** You will never have a life.
 
 
-[fn:1] You have to love someone, and you have to be strong at the same
-time. 
-
- 
-
-
-
-
-
+      

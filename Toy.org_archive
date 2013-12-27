@@ -1,0 +1,48 @@
+#    -*- mode: org -*-
+
+
+Archived entries from file /home/abrahamx91/Professional/Git/Org-Mode/Toy.org
+
+
+* TODO Work hard.
+   DEADLINE: <2013-12-27 Fri +1d>
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2013-12-27 Fri 21:26
+  :ARCHIVE_FILE: ~/Professional/Git/Org-Mode/Toy.org
+  :ARCHIVE_CATEGORY: Toy
+  :ARCHIVE_TODO: TODO
+  :END:
+
+
+
+
+[fn:1] You have to love someone, and you have to be strong at the same
+time. 
+
+ 
+
+
+
+
+
+** Make Love [33%]
+   :LOGBOOK:
+   - Refiled on [2013-12-27 Fri 21:25] \\
+     Nothing more to say.
+   :END:
+*** TODO Become a master student.
+*** NEXT Find a girl friend if possible.
+    :LOGBOOK:
+    - State "NEXT"       from "TODO"       [2013-12-27 Fri 21:19] \\
+      No girl friend. Still happiness.
+    :END:
+*** DONE Make love. 
+    CLOSED: [2013-12-27 Fri 21:21]
+    :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-12-27 Fri 21:21]
+    - State "NEXT"       from ""           [2013-12-27 Fri 21:20]
+    :END:
+    
+
+
+    
