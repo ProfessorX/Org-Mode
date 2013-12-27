@@ -19,7 +19,7 @@
 
 ** Lord of the Rings
    My favorite sentences are (in this order)
-   1. The attack of the Rohirrim[fn:1]
+   1. The attack of the Rohirrim [fn:1].
    2. Eowyn's fight with the witch king.
       + this was already my favorite scene in the book
       + I really like Miradan Otto.
@@ -53,12 +53,30 @@
 
 * Organize a party [33%]
 
-** TODO Call people [1/2]
+** TODO Call people [2/2]<2013-12-30 Mon>--<2013-12-30 Mon 20:00>
+   DEADLINE: <2013-12-27 Fri>
 
-*** TODO Call Peter
+** Pick up Sam at school. <2013-12-29 Sun +1w>
 
-*** DONE Sara
+
+*** DONE Call Peter
+    CLOSED: [2013-12-27 Fri 03:52]
+    :LOGBOOK:
+    - CLOSING NOTE [2013-12-27 Fri 03:52] \\
+      In this context, Peter seems not to be the TA of your course.
+    :END:
+
+*** DONE Sara 
+#+BEGIN: clocktable :maxlevel 2 :scope subtree
+#+CAPTION: Clock summary at [2013-12-27 Fri 04:07]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *0:01* |
+|--------------+--------|
+#+END:
+
     CLOSED: [2013-12-27 Fri 03:14]
+    CLOCK: [2013-12-27 Fri 04:05]--[2013-12-27 Fri 04:06] =>  0:01
 
 ** TODO Buy food.
 
@@ -86,7 +104,13 @@
   - [ ] think about what music to play
   - [ ] Life is hard. Then go to sleep.
 
-* Footnotes
+
+
+** TODO Work hard.
+   DEADLINE: <2013-12-21 Sat>
+
+
+
 
 [fn:1] You have to love someone, and you have to be strong at the same
 time. 
