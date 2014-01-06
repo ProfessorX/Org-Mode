@@ -1,0 +1,7 @@
+* 20140106
+** TODO Read the IES [fn:1] manual and run the simulation with 1A's design file.
+
+* Footnotes
+
+[fn:1] [[http://www.iesve.com/][Integrated Environmental Solutions]]
+
