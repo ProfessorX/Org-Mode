@@ -1,7 +1,75 @@
 * 20140106
+
 ** TODO Read the IES [fn:1] manual and run the simulation with 1A's design file.
+
+** TODO Finish the simulation part today and get some results.
+
+
+
+
+
+* 20140107
+
+
+
+
+
+* 20140108
+
+** TODO Finish the training in Fast MATLAB Code.
+
+** TODO Another chapter (or two chapters for today) in Python Algorithms.
+
+** TODO Finish (re-implement) codes in Python Tutorial. A really well written one.
+
+
+* 20140112
+
+** TODO Activate the IES software.
+
+** NEXT Change the parameter. And see if you can successfully run the simulation.
+   :LOGBOOK:
+   - State "NEXT"       from ""           [2014-01-12 Sun 15:14] \\
+     SOmething you ought to finish
+   :END:
+
+** TODO Finish the coding part of Writing Fast Matlab Code. 
+   DEADLINE: <2014-01-12 Sun 21:00>
+
+** TODO Try your best to finish as much Python Tutorial coding as you can.
+   DEADLINE: <2014-01-12 Sun 23:00>
+
+
+* 20140113
+
+** TODO Regular expression in Python.
+
+** NEXT Finish the Writing Fast Matlab Code.
+   DEADLINE: <2014-01-13 Mon>
+   :LOGBOOK:
+   - State "NEXT"       from "TODO"       [2014-01-13 Mon 17:23] \\
+     Something more to do. And do with your highest efficiency.
+   :END:
+   - [X] List your TODO to finish your code.
+   - [ ] Write them down. Because that would be more clear.
+   - [ ] Fuck them till explode. (In progress now.)
+   - [ ] Dinner time.
+   - [ ] Finish as much as possible. Well, within your capability scope.
+   - 
+
+
+
+
+
+
+* Comments
+  - Consumer electronics sucks.
+
+
+
+
+  
 
 * Footnotes
 
 [fn:1] [[http://www.iesve.com/][Integrated Environmental Solutions]]
-
