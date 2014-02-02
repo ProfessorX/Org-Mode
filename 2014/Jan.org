@@ -62,8 +62,51 @@
 
 
 
+* 20140116
+
+** Read another chapter about algorithms.
+
+** Finish the Python tutorial shit and feel the power of high level programming language.
+
+** Try to write as much as possible for your first conference paper.
+
+
+
+
+* 20140118
+
+** TODO Fuck up the Python Tutorial and thereafter you finish your research.
+   DEADLINE: <2014-01-18 Sat 19:00>
+
+** Finish the research part and try to write something.
+   DEADLINE: <2014-01-18 Sat 21:00>
+
+** Write a post of your last year if applicable. Ship from Japan to UAE, the Kindle Fire HDX.
+
+** Play with eQuest to see if we can get any practical result
+
+* 20140121
+
+** TODO Finish your part in the project.
+
+** Algorithms, Homework and More on the other two courses.
+
+
+
+
+* 20140128
+
+** TODO Homework of distributed systems.
+   DEADLINE: <2014-01-28 Tue 18:30>
+
+** TODO Preview and review of algorithms course.
+
+** TODO Preview and review of machine learning course with notes updated.
+
+
 * Comments
   - Consumer electronics sucks.
+
 
 
 

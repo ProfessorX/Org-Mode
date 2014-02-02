@@ -1,0 +1,17 @@
+* Daily GTD for February
+
+** 20140202
+
+*** Android application development [0%]
+    DEADLINE: <2014-02-02 Sun 12:00>
+    - [ ] Figure out how to develop apps on Android.
+    - [ ] Try some more complicated apps.
+    - [ ] Finish the first part of lab 1.
+    - [ ] *figure out what you want to develop* for your course /CIS
+      507/ project. You must be creative or just do the PROJECT
+      style.
+
+*** Preparing for the next Algo quiz. [0%]
+    - [ ] Watch the video lecture online.
+    - [ ] Finish last year's quiz.
+    - [ ] Take notes on where you fall.
