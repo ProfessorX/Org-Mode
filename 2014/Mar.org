@@ -1,0 +1,34 @@
+* All is well that ends well.
+
+
+** 20140302 [50%]
+   - [ ] Finish lab 2.2 this afternoon. Discuss lab 2.3 with Zelong
+     tonight. Remember the time gap and get down working.
+   - [X] No more video games shall be tolerated. 
+
+
+** 20140303
+   DEADLINE: <2014-03-03 Mon 23:00>
+   - [ ] Finish the lab 2 and lab 1, if there is any possibility.
+   - [ ] Review Python and finish at least 70% of HW1 tonight. This is
+     a must.
+
+
+** 20140324
+   - Life is full of ups and downs. And if you do not work hard
+     enough, you shall get fucked off by Masdar Institute.
+   - [ ] Finish the arduino part of Lab3-3.
+   - [ ] Finish the second project of machine learning.
+   - [ ] Attend the tutorial in the day (I bet it has something to do
+     with Midterm) and please do not fuck the second half (which would
+     save you from disaster!)
+
+     In short, finish what you have promised after your wake-up and go
+     to bed, get up as early as possible.
+
+
+     
+
+
+** Field Station
+   - Cooling. Chiller is fixed. 
