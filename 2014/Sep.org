@@ -2,3 +2,14 @@
 
 ** 20140906
    - To be or not to be, it's a question.
+
+
+** 20140907
+ 
+*** TODO Lab, 16:30 [100%]
+    DEADLINE: <2014-09-07 Sun 17:00>
+    - [X]  Make a phone call to mom.
+    - Read the book about embedded systems, 4 pomodoros.
+    - Read those materials again about Java, Programming and IDE.
+
+
