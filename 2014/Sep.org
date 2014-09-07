@@ -17,6 +17,16 @@
     - [ ] Finish reading of some chapters of Embedded System
       development.
     - [ ] Watch the video tutorial of python. And LEARN BY DOING.
+    - [ ] Watch the video tutorial of python. And learn by doing.
+
+** 20140908
+
+*** Lab, 00:30
+    - [ ] Write an email to Mrs. Nooreya, who is the student counselor
+      and to whom you should have done some IMPORTANT talkings much
+      earlier.
+      - Requirements, Actions and Punishments.
+
 
 
 
