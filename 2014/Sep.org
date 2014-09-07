@@ -9,7 +9,14 @@
 *** TODO Lab, 16:30 [100%]
     DEADLINE: <2014-09-07 Sun 17:00>
     - [X]  Make a phone call to mom.
-    - Read the book about embedded systems, 4 pomodoros.
+    - [ ] Read the book about embedded systems, 4 pomodoros.
     - Read those materials again about Java, Programming and IDE.
+
+*** Lab, 23:00
+    - [ ] Listen to some chapters of audio books
+    - [ ] Finish reading of some chapters of Embedded System
+      development.
+    - [ ] Watch the video tutorial of python. And LEARN BY DOING.
+
 
 
