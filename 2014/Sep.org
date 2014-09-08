@@ -5,7 +5,6 @@
 
 
 ** 20140907
- 
 *** TODO Lab, 16:30 [100%]
     DEADLINE: <2014-09-07 Sun 17:00>
     - [X]  Make a phone call to mom.
@@ -17,6 +16,15 @@
     - [ ] Finish reading of some chapters of Embedded System
       development.
     - [ ] Watch the video tutorial of python. And LEARN BY DOING.
+   
+
+** 20140908
+*** Office, 15:00
+    - talk with the academic people.
+    - maybe a talk with department head.
+    - back to your desk and do what is required.
+
+
 
 
 
