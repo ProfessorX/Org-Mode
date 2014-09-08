@@ -27,6 +27,21 @@
       earlier.
       - Requirements, Actions and Punishments.
 
+*** Lab, 17:15
+    - Be a good student. Try your best to graduate and do something
+      meaningful as a researcher & hacker.
 
+
+** 20140909
+
+*** Lab, 02:00
+    - Read and critical review of publications of the 2 selected
+      professors at New York University Abu Dhabi.
+    - "You are still willing to work hard as a researcher in the
+      academia right?""Then just do it, buddy."
+    - [ ] Talk with some professors here at Masdar.
+    - [ ] Finish the video courses about Python, and feel how to be a
+      real Engineer as well as Researcher! DO NOT FUCK IT UP.
+    - 
 
 
