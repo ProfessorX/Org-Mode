@@ -25,6 +25,18 @@
     - back to your desk and do what is required.
 
 
+** 20140910
+*** Lab, 00:00
+    - [ ] Listening while eating, walking and thinking, "A Random Walk
+      down Wall Street"
+    - PyCharm, Python tutorials with real practice. Update those
+      codes to Github if possible.
+    - Work till no later than 1:30 am; go to bed and get up
+      early. Breakfast matters a lot for a man's healthy growth, to
+      be honest.
+
+
+
 
 
 
