@@ -103,6 +103,27 @@
       you give up, you will lose both boobs and noobs.
 
 
+** 20140918 
+
+*** Lab, 15:50 <2014-09-18 Thu>
+    DEADLINE: <2014-09-18 Thu 23:30>
+    - Go and get books from library
+    - Attend the class which should done a long time go.
+    - Finish the git, python and Scheme (used for computer science)
+      tutorials then start reading, writing, and programming.[fn:1]
+
+*** CR9, 17:00
+    - *Keynote for weekend* Git tutorials, Python and Scheme.
+    - If possible, read the book "Embedded Systems" to be more aware
+      of what you might *might have to do* in the future.
 
 
+
+
+
+
+
+* Footnotes
+
+[fn:1] mpais@masdar.ac.ae
 
