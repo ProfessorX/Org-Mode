@@ -1,0 +1,7 @@
+[user]
+	email = q289196573@gmail.com
+	name = Abraham Xiao
+[core]
+	editor = emacsclient -c -a=\\\"\\\"
+[push]
+	default = simple
