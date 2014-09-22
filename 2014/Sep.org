@@ -117,6 +117,25 @@
     - If possible, read the book "Embedded Systems" to be more aware
       of what you might *might have to do* in the future.
 
+** 20140919
+
+*** TODO Lab, 06:20
+    DEADLINE: <2014-09-19 Fri 14:00>
+    - Git essential training. All of them.
+
+*** TODO Reading: How to Design Programs
+
+*** TODO Course notes review and finish the assigned homework.
+
+** 20140922
+   - [ ] Some more information about American Stock and open an
+     account today if possible.
+   - [ ] More training on "How to Design Programs" today, reading,
+     programming and love.
+   - [ ] Finish the required reading, and start working on your
+     homework, aka Multi-Agent homework, and your Artificial
+     Intelligence ones.
+
 
 
 
