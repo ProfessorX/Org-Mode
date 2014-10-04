@@ -5,9 +5,9 @@
 
 
 ** 20140907
-*** TODO Lab, 16:30 [100%]
+*** TODO Lab, 16:30 [0%]
     DEADLINE: <2014-09-07 Sun 17:00>
-    - [X]  Make a phone call to mom.
+    - [ ]  Make a phone call to mom.
     - [ ] Read the book about embedded systems, 4 pomodoros.
     - Read those materials again about Java, Programming and IDE.
 
@@ -23,118 +23,29 @@
 *** Office, 15:00
     - talk with the academic people.
     - maybe a talk with department head.
-    - back to your desk and do what is required.
-
-*** Lab, 00:30
-    - [ ] Write an email to Mrs. Nooreya, who is the student counselor
-      and to whom you should have done some IMPORTANT talkings much
-      earlier.
-      - Requirements, Actions and Punishments.
-
-*** Lab, 17:15
-    - Be a good student. Try your best to graduate and do something
-      meaningful as a researcher & hacker.
-      
-
-
-** 20140909
-
-*** Lab, 02:00
-    - Read and critical review of publications of the 2 selected
-      professors at New York University Abu Dhabi.
-    - "You are still willing to work hard as a researcher in the
-      academia right?""Then just do it, buddy."
-    - [ ] Talk with some professors here at Masdar.
-    - [ ] Finish the video courses about Python, and feel how to be a
-      real Engineer as well as Researcher! DO NOT FUCK IT UP.
-    - 
-
-
-** 20140910
-*** Lab, 00:00
-    - [ ] Listening while eating, walking and thinking, "A Random Walk
-      down Wall Street"
-    - PyCharm, Python tutorials with real practice. Update those
-      codes to Github if possible.
-    - Work till no later than 1:30 am; go to bed and get up
-      early. Breakfast matters a lot for a man's healthy growth, to
-      be honest.
-
-
-*** Lab, 03:00
-    - [ ] Talk with Chen Zhang.
-    - [ ] Talk with Dr. Hatem and Dr. Afshin (well, if possible)
-    - [ ] Be a good man and be ready to work. Fluent in English, high
-      in SELF-MOTIVATION.
-
-
-** 20140916
-
-*** Lab, 00:35
-    DEADLINE: <2014-09-16 Tue>
-    - [ ] Finish reading again the guidelines or, documentation of
-      Octopress.
-    - Well, one Chinese mate does not understand the IMPORTANCE of
-      proper preparations. However, I have wasted the time and those
-      opportunities by myself, which is, well, the prime target to
-      blame.
-    - Be a good student, my friend. Masdar treats you soooo well, and
-      you were acting like a bitch.
-
-
-*** Lab, 18:40
-    - Mistakes were made, but the last chance should or should not be
-      given. I do not know. Ask those professors.
-    - Yeah this is a research institute, and you should do research
-      instead of having fun.
-    - [ ] Write an email to Mrs. Nooreya.
-    - Write an email to Dr. Afshin, saying that this is a free
-      resource and I have no option but to work hard.
-    - Make the meeting appointment with Dr. Hatem 
-
-*** Lab, 19:00
-    - [ ] Octopress, documentation.
-    - [ ] Pro Git, documentation.
-    - [ ] There are some people for you to trust, and there are some
-      others for you to, RELY.
-    - [ ] Photography. You should find some things to do, so that you
-      can be AFK for those games. For computing, programming and
-      geeking, I am the one. NEVER NEVER NEVER fuckingly give up. If
-      you give up, you will lose both boobs and noobs.
-
-
-** 20140918 
-
-*** Lab, 15:50 <2014-09-18 Thu>
-    DEADLINE: <2014-09-18 Thu 23:30>
-    - Go and get books from library
-    - Attend the class which should done a long time go.
-    - Finish the git, python and Scheme (used for computer science)
-      tutorials then start reading, writing, and programming.[fn:1]
-
-*** CR9, 17:00
-    - *Keynote for weekend* Git tutorials, Python and Scheme.
-    - If possible, read the book "Embedded Systems" to be more aware
-      of what you might *might have to do* in the future.
-
-** 20140919
-
-*** TODO Lab, 06:20
-    DEADLINE: <2014-09-19 Fri 14:00>
-    - Git essential training. All of them.
-
-*** TODO Reading: How to Design Programs
-
-*** TODO Course notes review and finish the assigned homework.
-
-** 20140922
-   - [ ] Some more information about American Stock and open an
      account today if possible.
    - [ ] More training on "How to Design Programs" today, reading,
      programming and love.
    - [ ] Finish the required reading, and start working on your
-     homework, aka Multi-Agent homework, and your Artificial
+     homework, aka Multi-Agent homework, and your Artificila
      Intelligence ones.
+
+** 20140928
+   - [ ] Review the basic physics
+   - [ ] Attend the required courses as well as meeting.
+   - [ ] Finish the Homework of UCC501 by the end of 20:00.
+   - [ ] Read more about Racket, AI and how to design programs. Finish
+     the homework of CIS603.
+
+*** TODO UCC501 homework 
+    DEADLINE: <2014-09-28 Sun 23:30>
+
+*** TODO Write something with the title "What Happened!?"
+    DEADLINE: <2014-10-02 Thu 23:30>
+    That's all I am expected to finish by the end of the day. More are
+    the Racket language and video lectures on A.I. as well as, Game
+    Theory. Eat, Pray, and Love.
+
 
 
 

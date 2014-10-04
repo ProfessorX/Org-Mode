@@ -1,0 +1,11 @@
+
+* October, 2014
+
+** 20141004
+
+*** TODO Finish several (at least 7) chapters programming in Scheme
+    DEADLINE: <2014-10-04 Sat 19:00>
+
+*** TODO Finish 1 question of UCC 501
+
+*** TODO Finish 2-3 homework of CIS603
